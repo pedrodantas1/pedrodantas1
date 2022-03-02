@@ -2,6 +2,7 @@
 
 Sou o Pedro Henrique e estou estudando git.
 
+- 🎶 Gosto de escutar música eletrônica, rap e pop 
 - 🔭 Não estou trabalhando no momento
 - 🌱 Estou aprendendo Java e POO
 - 👯 Procuro colaborar com qualquer projeto
