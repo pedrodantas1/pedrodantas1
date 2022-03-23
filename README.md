@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Sou o Pedro Henrique e estou estudando git.
+Sou o Pedro Henrique e estou estudando java e POO.
 
 - 🎶 Gosto de escutar música eletrônica, rap e pop 
 - 🔭 Não estou trabalhando no momento
