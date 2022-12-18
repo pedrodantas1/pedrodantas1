@@ -6,9 +6,17 @@
 
 <!-- Socials -->
 
-<a href="https://www.linkedin.com/in/pedro-dantas-16562a24b/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<div align="center">
+    <a href="https://www.linkedin.com/in/pedro-dantas-16562a24b/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://twitter.com/pedoka7">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+    </a>
+    <a href="mailto:pedrood1232@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+</div>
 
 -----------
 
@@ -20,10 +28,13 @@
 
 -----------
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrodantas1&show_icons=true&theme=dracula&locale=en&layout=compact" alt="pedrodantas1" />
-</p>
+<!-- Others -->
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrodantas1&show_icons=true&theme=dracula&locale=en" alt="pedrodantas1" />
-</p>
+<div align="center">
+    <p>
+        <img style="height: auto; width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrodantas1&show_icons=true&theme=dracula&locale=en&layout=compact" />
+    </p>
+    <p>
+        <img style="height: auto; width: 50%;" src="https://github-readme-stats.vercel.app/api?username=pedrodantas1&show_icons=true&theme=dracula&locale=en" />
+    </p>
+</div>
